@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+    <head>
+    <meta charset=""utf-8">
+    <title><strong>Mes animaux préférés par T. GASSER</strong></title>
+</head>
+<body> 
+    <h1><mark>Quels sont mes animaux préférés et pourquoi ? Par T. GASSER</mark></h1>
+    <p>J'aime principalement les loutres et les paresseux.</p>
+    <p>La première chose que j'aime chez eux, c'est qu'ils sont mignon et rigolo.</p>
+    <h2><em>En quoi sont-ils mignon ?</em></h2>
+    
+        
+    <a href="https://fr.wikipedia.org/wiki/Loutre"> Les loutres</a>
+
+    <p> 
+       <a href="images/loutre.png"><img src="images/loutrezoom.jpg"alt="Les loutres" title="Les loutres"></a>
+    </p>
+    <ul>
+    <li>Leur apparence</li>
+    <li>Leur façon de tenir des petits caillous.</li>
+    <li>Leur manière de jouer.</li>
+
+</ul>
+<p>
+<a href="https://fr.wikipedia.org/wiki/Paresseux"> Les paresseux</a></p>
+
+    <a href="images/paresseux.png"><img src="images/paresseuxzoom.jpg" alt="Les paresseux" title="Les paresseux"></a>
+<p>
+    <ol>
+    <li>Leur apparence.</li>
+    <li>Leurs longs bras</li>
+    <li>Leur visage</li></ol>
+    <h2><em>En quoi sont-ils rigolo ?</em></h2>
+    </p>
+</body>
+</html>
+
